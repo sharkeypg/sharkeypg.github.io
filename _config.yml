@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  experience:
+  cv:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publications/talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  posts:
     output: true
     permalink: /:collection/:path/
 
