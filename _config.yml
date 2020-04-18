@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paul Sharkey"
 title_separator          : "-"
 name                     : &name "Paul Sharkey"
-description              : &description "Data scientist and statistician"
+description              : &description "Data Scientist and Statistician"
 url                      : https://sharkeypg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sharkeypg/sharkeypg.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Paul Sharkey"
   avatar           : "paul.png"
-  bio              : "Data scientist and statistician"
-  location         : "Lancaster/Manchester"
+  bio              : "Data Scientist and Statistician"
+  location         : "Manchester"
   employer         :
   pubmed           : 
   googlescholar    : 
