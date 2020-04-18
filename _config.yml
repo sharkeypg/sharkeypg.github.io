@@ -178,7 +178,7 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  publications/talks:
+  publications:
     output: true
     permalink: /:collection/:path/
   posts:
