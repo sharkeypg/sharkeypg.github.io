@@ -18,5 +18,21 @@ incorporating physical covariates in nonstationary flood frequency analysis in t
 conference, Swansea, September 2019.
 * [Sharkey, P. and Winter, H.C. (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1002/env.2529). A Bayesian spatial hierarchical model for extreme precipitation in Great Britain. Environmetrics. 30(1):e2529. 
 * [Barlow, A., Rohrbeck, C., Sharkey, P., Shooter, R. and Simpson, E.S. (2018)](https://link.springer.com/article/10.1007/s10687-018-0330-z). A Bayesian spatio-temporal model for precipitation extremes - STOR team contribution to the EVA2017 challenge. Extremes. 21(3):431 - 439.
-* [sharkey, P. and Tawn, J.A. (2017)](https://link.springer.com/article/10.1007/s10687-016-0280-2). A Poisson process reparameterisation for Bayesian inference for extremes. Extremes. 20(2):239 - 263.
+* [Sharkey, P. and Tawn, J.A. (2017)](https://link.springer.com/article/10.1007/s10687-016-0280-2). A Poisson process reparameterisation for Bayesian inference for extremes. Extremes. 20(2):239 - 263.
+
+Talks
+======
+* Royal Statistical Society conference, Bournemouth, 2020 (Invited, upcoming)
+* STOR-i Centre for Doctoral Training Industrial Problem Solving Day, Lancaster, 2020 (Invited)
+* Workshop on Extreme Ocean Wave Phenomena, Lancaster, 2019 (Invited)
+* GRASPA Italian Environmetrics Society conference, Pescara, 2019 (Invited)
+* Royal Statistical Society conference, Cardiff, 2018 (Contributed)
+* EVAN Conference, Southampton, 2017 (Contributed)
+* Extreme Value Analysis conference, 2017, Delft, Netherlands (Contributed)
+* Winter School on Recent Advances in Extremes, 2017, Lausanne, Switzerland (Contributed)
+* Multivariate and Spatial Extremes Workshop, 2016, Lancaster (Contributed)
+* Research Students conference in Probability and Statistics, 2016, Dublin, Ireland (Contributed)
+* Statistics in Weather and Climate workshop, 2016, Reading (Contributed)
+* EVAN conference, 2015, Santander, Spain (Contributed)
+
 
