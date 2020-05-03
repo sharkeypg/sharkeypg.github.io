@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+Publications
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Sharkey, P., Tawn, J.A. and Brown, S.J. (2020). A stochastic model for the lifecycle and track of extreme extratropical cyclones. Submitted. [Link](https://arxiv.org/abs/1905.08840)
+
