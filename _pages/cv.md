@@ -29,4 +29,4 @@ Knowledge and Skills
 * **Training**
 * **Project Management**
 
-A more detailed up-to-date CV can be found here.
+A more detailed up-to-date CV can be found [here](http://academicpages.github.io/files/cv.pdf).
